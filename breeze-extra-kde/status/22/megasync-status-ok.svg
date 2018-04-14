@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="22"
+   width="22"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="megasync-status-ok.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="822"
+     id="namedview11"
+     showgrid="true"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-7.2711864"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4501" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+   .ColorScheme-Text { color:#4d4d4d; } .ColorScheme-Highlight { color:#3daee9; }
+  </style>
+  </defs>
+  <path
+     style="fill:#4d4d4d;fill-opacity:1"
+     d="M 11 3 C 6.5822865 3 3 6.578744 3 11 C 3 15.417713 6.5787438 19 11 19 C 15.417713 19 19 15.421256 19 11 C 19 6.5822866 15.421256 3 11 3 z M 11 4 C 14.868599 4 18 7.1345008 18 11 C 18 14.868599 14.865499 18 11 18 C 7.1314008 18 4 14.865499 4 11 C 4 7.131401 7.1345007 4 11 4 z M 7 8 L 7 14 L 9 14 L 9 11.5 L 10 13 L 12 13 L 13 11.5 L 13 14 L 15 14 L 15 8 L 13 8 L 11 11 L 9 8 L 7 8 z "
+     id="path4492" />
+  <g
+     id="g4498"
+     transform="matrix(0.875,0,0,0.875,1.375,1.375)" />
+</svg>

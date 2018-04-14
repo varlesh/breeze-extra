@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="dialog-warning-symbolic.svg"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="808"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-5.8644068"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Text"
+     id="path3016"
+     d="M 7.9999999,-2.5e-7 C 3.5679999,-2.5e-7 9.9999999e-8,3.5679998 9.9999999e-8,8.0000002 9.9999999e-8,12.432 3.5679999,16 7.9999999,16 12.432,16 16,12.432 16,8.0000002 16,3.5679998 12.432,-2.5e-7 7.9999999,-2.5e-7 Z m -0.15625,1 h 0.3125 C 11.949423,0.99999975 15,4.0505908 15,7.8437501 V 8.1562502 C 15,11.949409 11.949423,15 8.1562499,15 h -0.3125 C 4.0505769,15 1.0000001,11.949409 1.0000001,8.1562503 V 7.8437501 c 0,-3.7931593 3.0505768,-6.84375035 6.8437498,-6.84375035 z m -0.65625,3.00000005 v 5.5937504 h 1.625 V 3.9999998 Z m 0.8125,6.4062502 c -0.368186,0 -0.8125,0.41306 -0.8125,0.78125 0,0.36819 0.444314,0.8125 0.8125,0.8125 0.368186,0 0.8125,-0.44431 0.8125,-0.8125 0,-0.36819 -0.444314,-0.78125 -0.8125,-0.78125 z"
+     style="color:#7b7c7e;fill:#cbcbcb;fill-opacity:1;stroke:none" />
+</svg>
