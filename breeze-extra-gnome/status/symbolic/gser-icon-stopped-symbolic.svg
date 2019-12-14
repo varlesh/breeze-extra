@@ -50,11 +50,11 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#cbcbcb; } .ColorScheme-Highlight { color:#3daee9; }
+   .ColorScheme-Text { color:#cecfce; } .ColorScheme-Highlight { color:#3daee9; }
   </style>
   </defs>
   <path
-     style="display:inline;opacity:0.5;fill:#cbcbcb;fill-opacity:1;stroke:none"
+     style="display:inline;opacity:0.5;fill:#cecfce;fill-opacity:1;stroke:none"
      d="M 6.7070303,-4.9999999e-8 6,0.70699995 10.29297,5 H -1.5e-7 V 16 H 16 V 5 H 11.70703 Z M 0.99999985,6 H 11.29297 12.70703 15 v 9 H 0.99999985 Z M 5.4999998,7 c -1.9329965,1e-7 -3.4999999,1.5670031 -3.5,3.5 10e-8,1.932997 1.5670035,3.5 3.5,3.5 1.9329968,0 3.5000004,-1.567003 3.5000004,-3.5 0,-1.9329969 -1.5670036,-3.5000002 -3.5000004,-3.5 z m 0,1.0000001 c 1.3807119,0 2.5,1.119288 2.5,2.4999999 0,1.380712 -1.1192881,2.5 -2.5,2.5 C 4.119288,13 2.9999999,11.880712 2.9999999,10.5 3,9.1192881 4.119288,8.0000001 5.4999998,8.0000001 Z m 3.5000004,0 v 1 H 14 v -1 z m 0,1.9999999 v 1 H 14 v -1 z m 0,2 v 1 H 14 v -1 z"
      id="rect4703"
      inkscape:connector-curvature="0"

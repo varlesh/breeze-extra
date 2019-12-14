@@ -52,12 +52,12 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#cbcbcb;
+        color:#cecfce;
       }
       </style>
   </defs>
   <path
-     style="color:#cbcbcb;fill:#cbcbcb;fill-opacity:1;stroke:none"
+     style="color:#cecfce;fill:#cecfce;fill-opacity:1;stroke:none"
      d="M 5.5,0 C 4.115,0 3,1.115 3,2.5 v 6 C 3,9.885 4.115,11 5.5,11 6.885,11 8,9.885 8,8.5 v -6 C 8,1.115 6.885,0 5.5,0 Z M 0,7 v 1 c 9.163e-4,2.235554 1.6341118,4.198898 4,4.808594 V 15 H 2 v 1 H 9 V 15 H 7 V 12.806641 C 9.365122,12.197142 10.998124,10.23483 11,8 V 7 H 10 V 8 C 10,10.209139 7.9852814,12 5.5,12 3.0147186,12 1,10.209139 1,8 V 7 Z"
      id="path4"
      inkscape:connector-curvature="0"

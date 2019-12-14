@@ -54,16 +54,16 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#cbcbcb;
+        color:#cecfce;
       }
       </style>
   </defs>
   <path
-     style="fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:1.33333337"
+     style="fill:#cecfce;fill-opacity:1;stroke:none;stroke-width:1.33333337"
      d="M 8 0 C 8 0 6 2.3333 0 3 C 0 3 0 12.6581 8 16 C 16 12.6581 16 3 16 3 C 10 2.3333 8 1.4802974e-16 8 0 z M 8 1.203125 C 8.3163266 1.4874767 8.4223851 1.6757957 9.2792969 2.1328125 C 10.480959 2.7736949 12.401116 3.413254 14.935547 3.8046875 C 14.813418 5.6596756 13.960801 12.071702 8 14.855469 C 2.0391992 12.071702 1.1865815 5.6596756 1.0644531 3.8046875 C 3.5988836 3.413254 5.5190411 2.7736949 6.7207031 2.1328125 C 7.5776149 1.6757957 7.6836734 1.4874767 8 1.203125 z "
      id="path4491" />
   <path
-     style="fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:1.33333337"
+     style="fill:#cecfce;fill-opacity:1;stroke:none;stroke-width:1.33333337"
      d="M 8,2.4199219 C 7.6475105,2.6822836 7.7064533,2.740935 7.1914062,3.015625 6.0582012,3.6199973 4.2982325,4.1789591 2.1699219,4.5996094 2.5163419,6.9976025 3.764694,11.463275 8,13.707031 Z"
      id="path4500"
      inkscape:connector-curvature="0"

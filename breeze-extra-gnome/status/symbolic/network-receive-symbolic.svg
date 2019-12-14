@@ -52,7 +52,7 @@
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
-     style="color:#cbcbcb;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#cecfce;fill:currentColor;fill-opacity:1;stroke:none"
      d="M 0,11 5.1679692,6.0000005 6.0000002,6.804688 1.662109,11 6.0000002,15.195312 5.1679692,16 Z M 6.0000002,9.0000005 H 10 V 10 13 H 6.0000002 v -1 h 3 v -2 h -3 z"
      class="ColorScheme-Text"
      id="path4"
@@ -64,5 +64,5 @@
      id="path4487"
      class="ColorScheme-Text"
      d="M 16,5 10.83203,4.5e-7 9.9999992,0.80468795 14.337891,5 9.9999992,9.195312 10.83203,10 Z M 9.9999992,3.0000005 H 6.0000002 V 4 7 h 3.999999 V 6 h -3 V 4 h 3 z"
-     style="color:#cbcbcb;opacity:0.5;fill:currentColor;fill-opacity:1;stroke:none" />
+     style="color:#cecfce;opacity:0.5;fill:currentColor;fill-opacity:1;stroke:none" />
 </svg>

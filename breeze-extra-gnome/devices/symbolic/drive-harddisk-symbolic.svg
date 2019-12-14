@@ -52,12 +52,12 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#cbcbcb;
+        color:#232627;
       }
       </style>
   </defs>
   <path
-     style="color:#cbcbcb;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#232627;fill:currentColor;fill-opacity:1;stroke:none"
      d="M 0,0 V 16 H 16 V 15 13 0 Z M 1,1 H 15 V 12 H 9 v 1 H 6 V 12 H 1 Z m 2,2 v 7 H 13 V 3 Z m 1,1 h 2 v 2 h 4 V 4 h 2 V 9 H 4 Z m -3,9 h 3 v 2 H 1 Z m 9,0 h 4 v 2 h -4 z"
      id="rect4245"
      class="ColorScheme-Text"
@@ -67,5 +67,5 @@
      class="ColorScheme-Text"
      id="path4486"
      d="M 0,0 V 16 H 16 V 15 13 0 Z M 1,1 H 15 V 12 H 9 v 1 H 6 V 12 H 1 Z m 2,2 v 7 H 13 V 3 Z m 1,1 h 2 v 2 h 4 V 4 h 2 V 9 H 4 Z m -3,9 h 3 v 2 H 1 Z m 9,0 h 4 v 2 h -4 z"
-     style="color:#cbcbcb;fill:currentColor;fill-opacity:1;stroke:none" />
+     style="color:#232627;fill:currentColor;fill-opacity:1;stroke:none" />
 </svg>

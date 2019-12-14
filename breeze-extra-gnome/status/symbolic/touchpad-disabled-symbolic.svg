@@ -53,13 +53,13 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
      inkscape:connector-curvature="0"
-     style="color:#31363b;fill:#cbcbcb;fill-opacity:1;stroke:none;opacity:0.5"
+     style="color:#31363b;fill:#cecfce;fill-opacity:1;stroke:none;opacity:0.5"
      d="M 1,0 C 0.446,0 0,0.446 0,1 v 14 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 1 C 16,0.446 15.554,0 15,0 Z M 1,1 H 15 V 12 H 1 Z m 0,12 h 6 v 2 H 1 Z m 8,0 h 6 v 2 H 9 Z"
      class="ColorScheme-Text"
      id="path17" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#da4453;fill:#cbcbcb;fill-opacity:1;stroke:none;opacity:0.5"
+     style="color:#da4453;fill:#cecfce;fill-opacity:1;stroke:none;opacity:0.5"
      d="M 5.8476562,4 5,4.847656 7.152344,7 5,9.152344 5.8476562,10 8,7.847656 10.152344,10 11,9.152344 8.847656,7 11,4.847656 10.152344,4 8,6.152344 Z"
      class="ColorScheme-NegativeText"
      id="path21" />

@@ -7,23 +7,25 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="22"
-   width="22"
-   version="1"
-   id="svg2"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg4"
    sodipodi:docname="system-file-manager-panel.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata8">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -33,27 +35,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="16.26"
-     inkscape:cx="6.5876508"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs8">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-   .ColorScheme-Text { color:#cbcbcb; } .ColorScheme-Highlight { color:#3daee9; }
-  </style>
-  </defs>
+     inkscape:current-layer="svg4" />
   <path
-     style="opacity:1;vector-effect:none;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:1.77016461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 3 3 L 3 19 L 19 19 L 19 3 L 3 3 z M 4 4 L 18 4 L 18 18 L 4 18 L 4 4 z M 5 5 L 5 10 L 17 10 L 17 5 L 5 5 z M 9.25 7 L 12.75 7 C 12.888 7 13 7.1115 13 7.25 L 13 7.75 C 13 7.8885 12.888 8 12.75 8 L 9.25 8 C 9.1115 8 9 7.8885 9 7.75 L 9 7.25 C 9 7.1115 9.1115 7 9.25 7 z M 5 12 L 5 17 L 17 17 L 17 12 L 5 12 z M 9.25 14 L 12.75 14 C 12.888 14 13 14.112 13 14.25 L 13 14.75 C 13 14.888 12.888 15 12.75 15 L 9.25 15 C 9.1115 15 9 14.888 9 14.75 L 9 14.25 C 9 14.112 9.1115 14 9.25 14 z "
-     id="rect4504" />
+     style="fill:#cecfce;fill-opacity:1;stroke:none"
+     d="m 424.71448,528.79074 0,1 0,15 1,0 15,0 0,-1 0,-13 -6.99219,0 -2,-2 -0.008,0.008 0,-0.008 -6,0 -1,0 z m 1,1 3,0 2.58594,0 1.0039,1.00391 -4.01953,3.99609 -0.002,0 -2.56836,0 0,-5 z m 5.00781,4 8.99219,0 0,10 -14,0 0,-8 1.5625,0 1.4375,0 0,-0.008 0.008,0.008 2,-2 z"
+     transform="translate(-421.71429,-525.79074)"
+     id="path2" />
 </svg>

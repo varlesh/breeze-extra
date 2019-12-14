@@ -52,12 +52,12 @@
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
-     style="color:#cbcbcb;fill:#cbcbcb;fill-opacity:1;stroke:none;opacity:0.5"
+     style="color:#cecfce;fill:#cecfce;fill-opacity:1;stroke:none;opacity:0.5"
      d="M 10.826172 0.001953125 L 9.9941406 0.80664062 L 14.332031 5.0019531 L 10.197266 9 L 7 9 L 7 10 L 10 10 L 10 12 L 7 12 L 7 13 L 11 13 L 11 12 L 11 9.8339844 L 15.994141 5.0019531 L 10.826172 0.001953125 z M 5.9941406 3.0019531 L 5.9941406 6.0019531 L 5.9941406 6.1679688 L 1 11 L 6.1679688 16 L 7 15.195312 L 2.6621094 11 L 6.796875 7.0019531 L 9.9941406 7.0019531 L 9.9941406 6.0019531 L 6.9941406 6.0019531 L 6.9941406 4.0019531 L 9.9941406 4.0019531 L 9.9941406 3.0019531 L 5.9941406 3.0019531 z "
      id="path4" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#31363b;opacity:0.5;fill:#cbcbcb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="color:#31363b;opacity:0.5;fill:#cecfce;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 11.707032,11.050781 1.767578,1.767578 1.767578,-1.767578 0.707031,0.707031 -1.767578,1.767578 1.767578,1.767578 L 15.242188,16 13.47461,14.232421 11.707032,16 11,15.292968 12.767579,13.52539 11,11.757812 Z"
      id="path4490" />
 </svg>
